@@ -57,6 +57,10 @@ PROCEDIMIENTO
 
 3.1 Implemente el circuito que se presenta en la figura 3.1
 
+![image](https://user-images.githubusercontent.com/105722861/172534441-a2c2b5a4-4a32-40df-ba1f-ae97148cfee9.png)
+
+![image](https://user-images.githubusercontent.com/105722861/172536087-d9a0cf73-23e7-4a82-8ba2-cea68f1abb32.png)
+
 3.2 Medición de cada una de las corrientes de las malla.
 
 3.3  Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de caída de voltaje en los nodos.
