@@ -42,6 +42,11 @@ OBJETIVOS ESPECÍFICOS
 
 2. MARCO TEÓRICO (RESUMEN).
 
+![image](https://user-images.githubusercontent.com/105722861/172533959-bf4afb50-d340-44a1-9140-fd50464c8dbd.png)
+
+![image](https://user-images.githubusercontent.com/105722861/172534070-a986abf4-0f8d-4be6-9b92-a7013e15d4a5.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
 MATERIALES 
