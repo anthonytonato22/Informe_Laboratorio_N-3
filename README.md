@@ -59,12 +59,23 @@ PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105722861/172534441-a2c2b5a4-4a32-40df-ba1f-ae97148cfee9.png)
 
-![image](https://user-images.githubusercontent.com/105722861/172536087-d9a0cf73-23e7-4a82-8ba2-cea68f1abb32.png)
+![image](https://user-images.githubusercontent.com/105722861/172734424-07454c2b-9534-437c-91ae-cd5924a5c869.png)
 
 3.2 Medición de cada una de las corrientes de las malla.
 
+![image](https://user-images.githubusercontent.com/105722861/172748436-731cc17f-60a4-4d3d-b912-2148573fbe90.png)
+
+![image](https://user-images.githubusercontent.com/105722861/172748694-da21d869-c053-4aef-8582-174a883b9fef.png)
+
+![image](https://user-images.githubusercontent.com/105722861/172748898-e01fa525-0545-4bc8-9cb0-e6aec003a69e.png)
+
 3.3  Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de caída de voltaje en los nodos.
 
+![image](https://user-images.githubusercontent.com/105722861/172749161-fe46b3a7-28a0-4ce5-b87d-9765a6772162.png)
+
+3.4 Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de voltaje de cada resistencia.
+
+![image](https://user-images.githubusercontent.com/105722861/172749389-32eadbe7-a9e0-4adf-baa5-216e8ffd0d7b.png)
 
 Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
