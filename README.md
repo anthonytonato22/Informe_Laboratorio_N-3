@@ -89,6 +89,8 @@ Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=2EzTHBhVBjg
+
 5. CONCLUSIONES
 
 * Concluimos que es posible verificar y comprobar la ley de corriente de Kirchhoff para circuitos resistivos tanto teoricamente como en la practica, para comprobar la veracidad de los calculos nos ha sido de gran utilidad el uso del simulador de Tinkercad.
