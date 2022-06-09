@@ -79,9 +79,20 @@ PROCEDIMIENTO
 
 Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
+![image](https://user-images.githubusercontent.com/105722861/172750674-9d580fc6-3681-40f5-a4a4-2e1a6e90ee6b.png)
+
+3.5 Calcular errores de las mediciones y comentar los resultados.
+
+
 4. VIDEO
 
 5. CONCLUSIONES
 
+* Concluimos que es posible verificar y comprobar la ley de corriente de Kirchhoff para circuitos resistivos tanto teoricamente como en la practica.
+
+* La técnica análisis de nodos reduce la complejidad del circuito ya que al identificar los nodos resulta sencillo obtener el valor de corriente de los que tienen una fuente de voltaje conectada al nodo de referencia.
+
 6. Bibliografía 
+
+* McAllister, W. (19 de Abril de 2018). Khan Academy. Obtenido de El método del voltaje en los nodos : https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
 
