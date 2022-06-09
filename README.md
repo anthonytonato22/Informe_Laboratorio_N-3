@@ -76,6 +76,8 @@ PROCEDIMIENTO
 3.4 Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de voltaje de cada resistencia.
 
 ![image](https://user-images.githubusercontent.com/105722861/172749389-32eadbe7-a9e0-4adf-baa5-216e8ffd0d7b.png)
+![WhatsApp Image 2022-06-09 at 7 58 17 AM](https://user-images.githubusercontent.com/105689577/172852936-e5bd54c7-bd9c-43f1-91ed-4804f3170e4d.jpeg)
+![WhatsApp Image 2022-06-09 at 7 58 48 AM](https://user-images.githubusercontent.com/105689577/172852949-0dcdbe32-5ee1-4a01-9a1a-de2996d54267.jpeg)
 
 Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
