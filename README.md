@@ -81,6 +81,8 @@ Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
 ![image](https://user-images.githubusercontent.com/105722861/172750674-9d580fc6-3681-40f5-a4a4-2e1a6e90ee6b.png)
 
+![image](https://user-images.githubusercontent.com/105722861/172752697-45aefb5e-b759-4640-8d1f-4cd7a8d09ad4.png)
+
 3.5 Calcular errores de las mediciones y comentar los resultados.
 
 
